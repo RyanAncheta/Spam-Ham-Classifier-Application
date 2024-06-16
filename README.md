@@ -37,7 +37,8 @@ https://www.kaggle.com/datasets/zubairmustafa/spam-and-ham-classification-balanc
 
 ### Classification Result
 -output from a real spam message I recieved.
-![Classification Result](images/testspam.png)
+![Classification Result](images/testing.png)
+-output from a real text I recieved.
 ![Classification Result](images/testham.png)
 
 ## File Descriptions
