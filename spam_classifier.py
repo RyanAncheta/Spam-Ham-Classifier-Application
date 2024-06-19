@@ -10,7 +10,7 @@ from tkinter import messagebox
 #training the model
 def train_model():
     # load the dataset
-    file_path = 'spam_and_ham_classification.csv'
+    file_path = 'spam-or-ham.csv'
     if not file_path:
         print("Please provide a valid file path.")
         return
@@ -37,6 +37,7 @@ def train_model():
     y_pred = model.predict(X_test)
     accuracy = accuracy_score(y_test, y_pred)
     report = classification_report(y_test, y_pred)
+
 
     # save our model and vectorizer
     joblib.dump(model, 'spam_classifier_model.pkl')
