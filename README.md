@@ -1,7 +1,7 @@
 # Spam Classifier Application
 
 This application features a GUI for classifying text from user input as spam or ham using a Naive Bayes algorithm for machine learning. The model is trained to analyze the text from a dataset from Kaggle.
-https://www.kaggle.com/datasets/zubairmustafa/spam-and-ham-classification-balanced-dataset
+https://www.kaggle.com/datasets/zubairmustafa/spam-and-ham-classification-balanced-dataset & https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 ## Features
 
