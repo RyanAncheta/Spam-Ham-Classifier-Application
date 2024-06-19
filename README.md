@@ -50,7 +50,7 @@ https://www.kaggle.com/datasets/zubairmustafa/spam-and-ham-classification-balanc
 ## File Descriptions
 
 - `spam_classifier.py`: Main script containing functions for model training, loading, text classification, and GUI creation.
-- `spam_and_ham_classification.csv`: (Required for training) Dataset containing labeled messages for spam and ham classification.
+- `spam_and_ham_classification.csv` & `spam1.csv`: (Required for training) Dataset containing labeled messages for spam and ham classification.
 - `spam_classifier_model.ipynb`: jupyter notebook conating the same training and testing of model with detail explanation of the steps.
 
 ## How to Contribute
