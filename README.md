@@ -21,7 +21,7 @@ https://www.kaggle.com/datasets/zubairmustafa/spam-and-ham-classification-balanc
 ## Usage
 
 1. **Training the Model**:
-   - Ensure your dataset (`spam_and_ham_classification.csv`) is in the same directory as the script.
+   - Ensure your dataset (`spam_and_ham_classification.csv` & `spam1.csv`) is in the same directory as the script.
    - Uncomment the `train_model()` call in the main execution block if the model is not already trained and saved.
    - Run the script to train the model and save it to disk.
 
